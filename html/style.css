@@ -1,0 +1,15 @@
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.longLabel {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size : 20px;
+
+}
+
+#issMap {
+    border : 6px red solid;
+    border-radius : 200px;
+    margin : auto;
+}
